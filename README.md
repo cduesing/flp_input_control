@@ -7,5 +7,6 @@ In order to increase the ease of setting up the demonstration, we opted for prov
 
 ## Setup
 The repository contains two notebooks used to run all the code.
+
 The notebook **create_churn_data** contains the code necessary to create the churn dataset from the original dataset offered on kaggle.
 The notebook **flp_input_control** serves to perform and demonstrate all components of the proposed artifact.
